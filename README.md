@@ -1,6 +1,6 @@
 <img src="https://www.esiteworld.com/images/gojek-clone-latest/gojek-app-clone-latest.png">
 
-All in One App for On Demand Services: Gojek Clone Script
+<h1><strong>All in One App for On Demand Services: Gojek Clone Script</strong></h1>
 
 Empower your customers to enjoy the benefits of having any and all kinds of services accessible without the necessity of having to switch between apps or download multiple applications on their smart phones with the help of a multi service app as an on demand business solution. 
 
